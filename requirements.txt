@@ -1,0 +1,25 @@
+# Core ML / AI
+openai-whisper
+sentence-transformers
+torch
+
+# Audio processing
+librosa
+soundfile
+audioread
+
+# Data / NLP utilities
+nltk
+numpy
+
+# Visualization
+matplotlib
+
+# Web UI
+streamlit
+
+# PDF generation
+reportlab
+
+# Dev / testing
+pytest
